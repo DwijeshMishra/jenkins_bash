@@ -1,4 +1,4 @@
 #!/bin/bash
 date 
 cal
-echo "hello"
+echo "hello github webhook"
